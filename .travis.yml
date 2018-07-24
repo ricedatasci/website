@@ -2,13 +2,16 @@ addons:
   apt:
     packages:
       - python-pygments
+env:
+  - BINDIR=/home/travis/bin
+  - HUGO_RELEASE_LINK=https://github.com/gohugoio/hugo/releases/download/v0.45/hugo_0.45_Linux-64bit.tar.gz
 cache: 
   directories:
-    - /home/travis/bin
+    - $BINDIR
 install:
-  - mkdir /home/travis/bin -p && curl -LO https://github.com/gohugoio/hugo/releases/download/v0.45/hugo_0.45_Linux-64bit.tar.gz | tar zx && mv hugo /home/travis/bin
+  - mkdir -p $BINDIR && curl -L $HUGO_RELEASE_LINK | tar zx && mv hugo $BINDIR
 script:
-  - /home/travis/bin/hugo
+  - $BINDIR/hugo
 deploy:
   provider: pages
   skip_cleanup: true
