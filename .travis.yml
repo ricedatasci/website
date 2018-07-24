@@ -1,0 +1,16 @@
+addons:
+  apt:
+    packages:
+      - python-pygments
+cache: $HOME/bin
+install:
+  - curl -LO https://github.com/gohugoio/hugo/releases/download/v0.45/hugo_0.45_Linux-64bit.tar.gz && mv hugo $HOME/bin
+script:
+  - $HOME/bin/hugo
+deploy:
+  provider: pages
+  skip_cleanup: true
+  local_dir: public/
+  github_token: $GITHUB_TOKEN
+  on:
+    branch: master
