@@ -6,7 +6,7 @@ cache:
   directories:
     - /home/travis/bin
 install:
-  - mkdir /home/travis/bin && curl -LO https://github.com/gohugoio/hugo/releases/download/v0.45/hugo_0.45_Linux-64bit.tar.gz | tar zx && mv hugo /home/travis/bin
+  - mkdir /home/travis/bin -p && curl -LO https://github.com/gohugoio/hugo/releases/download/v0.45/hugo_0.45_Linux-64bit.tar.gz | tar zx && mv hugo /home/travis/bin
 script:
   - /home/travis/bin/hugo
 deploy:
