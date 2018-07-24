@@ -3,8 +3,9 @@ addons:
     packages:
       - python-pygments
 env:
-  - BINDIR=/home/travis/bin
-  - HUGO_RELEASE_LINK=https://github.com/gohugoio/hugo/releases/download/v0.45/hugo_0.45_Linux-64bit.tar.gz
+  global:
+    - BINDIR=/home/travis/bin
+    - HUGO_RELEASE_LINK=https://github.com/gohugoio/hugo/releases/download/v0.45/hugo_0.45_Linux-64bit.tar.gz
 cache: 
   directories:
     - $BINDIR
