@@ -1,0 +1,32 @@
+<p class="social">
+  {{ with .Params.github }}
+  <a href="https://github.com/{{ . }}" data-animate-hover="pulse" class="external">
+    <i class="fa fa-github"></i>
+  </a>
+  {{end}}
+  {{ with .Params.email }}
+  <a href="mailto:{{ . }}" data-animate-hover="pulse" class="email">
+    <i class="fa fa-envelope"></i>
+  </a>
+  {{end}}
+  {{ with .Params.facebook }}
+  <a href="https://facebook.com/{{ . }}" data-animate-hover="pulse" class="external facebook">
+    <i class="fa fa-facebook"></i>
+  </a>
+  {{end}}
+  {{ with .Params.twitter }}
+  <a href="https://twitter.com/{{ . }}" data-animate-hover="pulse" class="external twitter">
+    <i class="fa fa-twitter"></i>
+  </a>
+  {{end}}
+  {{ with .Params.linkedin }}
+  <a href="https://linkedin.com/{{ . }}" data-animate-hover="pulse" class="external">
+    <i class="fa fa-linkedin"></i>
+  </a>
+  {{end}}
+  {{ with .Params.stackoverflow }}
+  <a href="https://stackoverflow.com/{{ . }}" data-animate-hover="pulse" class="external">
+    <i class="fa fa-stack-overflow"></i>
+  </a>
+  {{end}}
+</p>
