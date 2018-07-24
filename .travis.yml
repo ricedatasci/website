@@ -2,11 +2,13 @@ addons:
   apt:
     packages:
       - python-pygments
-cache: $HOME/bin
+cache: 
+  directories:
+    - /home/travis/bin
 install:
-  - curl -LO https://github.com/gohugoio/hugo/releases/download/v0.45/hugo_0.45_Linux-64bit.tar.gz && mv hugo $HOME/bin
+  - mkdir /home/travis/bin && curl -LO https://github.com/gohugoio/hugo/releases/download/v0.45/hugo_0.45_Linux-64bit.tar.gz | tar zx && mv hugo /home/travis/bin
 script:
-  - $HOME/bin/hugo
+  - /home/travis/bin/hugo
 deploy:
   provider: pages
   skip_cleanup: true
