@@ -14,9 +14,11 @@ install:
 script:
   - $BINDIR/hugo
 deploy:
+  local-dir: public/
   provider: pages
+  repo: ricedatasci/ricedatasci.github.io
+  target-branch: master
   skip_cleanup: true
-  local_dir: public/
   github_token: $GITHUB_TOKEN
   on:
     branch: master
