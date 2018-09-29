@@ -1,0 +1,21 @@
+{{ if gt (len .Site.Pages) "0" }}
+<section>
+  <div class="owl-carousel owl-theme">
+      {{ range where .Site.Pages ".Type" "about" }}
+      <div class="item">
+          <div class="row">
+              <div class="col-sm-5 right">
+                  <h4>{{ .Title }}</h4>
+                  <p>desc</h1>
+              </div>
+              <div class="col-sm-7" >
+                  <!--{{ with .Params.image }}-->
+                      <!--<img class="img-responsive" src="{{ . }}" alt="">-->
+                  <!--{{ end }}-->
+              </div>
+          </div>
+      </div>
+      {{ end }}
+  </div>
+</section>
+{{ end }}

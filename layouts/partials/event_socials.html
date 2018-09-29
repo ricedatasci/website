@@ -1,0 +1,19 @@
+</br>
+<div class="row">
+  {{ with .Params.facebook }}
+  <a href="https://facebook.com/events/{{ . }}" class="button">
+    <i class="fa fa-facebook"></i>
+    <span class="button-title">
+     RSVP on Facebook 
+    </span>
+  </a>
+  {{end}}
+  {{ with .Params.github }}
+  <a href="https://github.com/{{ . }}" class="button">
+    <i class="fa fa-github"></i>
+    <span class="button-title">
+    View on Github 
+    </span>
+  </a>
+  {{ end }}
+</div>
