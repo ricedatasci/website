@@ -10,5 +10,4 @@ email = "ellie.clermont@rice.edu"
 weight = "1"
 +++
 
-Ellie Clermont is a junior at Martel college studying Computer Science and
-Statistics.
+junior at Martel college studying Computer Science
