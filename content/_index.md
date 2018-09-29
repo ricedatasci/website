@@ -1,6 +1,6 @@
 +++
 +++
 
-# This is the home page
+### Welcome to Rice DataSci!
 
-Woah!
+
