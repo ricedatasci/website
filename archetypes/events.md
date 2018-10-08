@@ -1,6 +1,7 @@
 +++
 title = "{{ replace .Name "-" " " | title }}"
 date = ""
+publishdate = ""
 time = ""
 location = ""
 type = "event"
