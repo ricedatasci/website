@@ -1,6 +1,6 @@
 +++
 title = "RDS General Meeting F18"
-date = "2018-10-08"
+date = "2018-10-02"
 time = "5:30PM-6:30PM"
 location = "DCH 1064"
 type = "event"
