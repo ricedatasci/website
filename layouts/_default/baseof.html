@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
-<head>{{ partial "head.html" . }}</head>
+<head>
+    {{ partial "head.html" . }}
+</head>
 <body>
   <div id="all">
       <div class="container-fluid">
@@ -11,6 +13,6 @@
           </div>
       </div>
   </div>
-  {{ partial "scripts.html" . }}
+  {{ partial "js" . }}
 </body>
 </html>

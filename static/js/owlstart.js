@@ -1,0 +1,9 @@
+$('.owl-carousel').owlCarousel({
+	items:1,
+	singleItem:true,
+    loop:true,
+    margin:10,
+    nav:true,
+	autoPlay:2500,
+    autoWidth:true
+})

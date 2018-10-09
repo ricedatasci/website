@@ -1,1 +1,13 @@
-/* your styles go here */
+.button {
+    background: rgb(0, 36, 106);
+    border-radius: 5px;
+    color: #fff;
+    padding: 5px 10px;
+    margin: 5px;
+}
+
+.button:hover {
+    text-decoration: none;
+    background: rgb(0, 36, 150);
+    color: #fff;
+}
