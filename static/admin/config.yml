@@ -1,0 +1,25 @@
+backend:
+  name: git-gateway
+
+media_folder: "static/img" # Folder where user uploaded files should go
+public_folder: "img"
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "events"
+    label: "Event"
+    folder: "content/events"
+    create: true
+    extension: "md"
+    format: "toml-frontmatter"
+    slug: "{{slug}}-{{year}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Creation Date", name: "date", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Publish Date", name: "publishdate", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false}
+      - {label: "Location", name: "location", widget: "string", default: "Liu Idea Lab for Innovation and Entrepreneurship (Lilie)"}
+      - {label: "Type", name: "type", widget: "hidden", default: "event"}
+      - {label: "Description", name: "description", widget: "string", default: "event"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Github Repo Stub", name: "github", widget: "string", default: "ricedatasci/"}
+      - {label: "Facebook Event ID", name: "facebook", widget: "string"}
