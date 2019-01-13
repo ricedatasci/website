@@ -8,4 +8,4 @@ facebook = "nicholas.mcmillan.127"
 weight = "2"
 +++
 
-Nick is the External Vice President for the 2018-2019 school year.
+senior at Hanszen studying stats

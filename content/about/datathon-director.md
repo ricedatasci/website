@@ -11,4 +11,5 @@ email = "aam14@rice.edu"
 weight = "4"
 +++
 
-Abhijeet Mulgund is a senior studying computer science and mathematics.
+senior at Weiss studying cs and math  
+incoming @ [Domino Data Lab](https://www.dominodatalab.com)

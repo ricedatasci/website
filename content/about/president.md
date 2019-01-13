@@ -10,4 +10,5 @@ email = "ellie.clermont@rice.edu"
 weight = "1"
 +++
 
-junior at Martel college studying Computer Science
+junior at Martel studying cs  
+incoming @ [Amazon](https://amazon.com)

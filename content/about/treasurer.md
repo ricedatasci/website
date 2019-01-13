@@ -10,4 +10,5 @@ email = "nu4@rice.edu"
 weight = "5"
 +++
 
-senior studying computer science
+senior at Hanszen studying cs  
+incoming @ [Grand Rounds](https://www.grandrounds.com/)
