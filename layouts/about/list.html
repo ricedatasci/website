@@ -16,7 +16,6 @@
         <div class="box-masonry officers">
           {{ if and (isset .Params "image") .Params.image }}
           <img src="{{.Site.BaseURL}}{{ .Params.image }}" alt="" class="img-responsive officers">
-          <!--<img src="{{.Site.BaseURL}}/img/ellie.jpg" alt="" class="img-responsive officers">-->
           {{ end }}
           <div class="box-masonry-text vertical-center">
             <h4>{{ .Params.name }}</h4>
