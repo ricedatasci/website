@@ -55,8 +55,47 @@ section.background-secondary {
   font-family: "Georgia", "Times New Roman", Times, serif;
 }
 .img-responsive {
-  margin: 0 auto;
+    margin: auto;
 }
+
+h5 {
+   font-weight: 300 !important; 
+}
+
+@media screen and (max-width: 400px) {
+    .box-masonry.officers {
+        display: flex;
+        flex-flow: column wrap !important;
+        text-align: center;
+    }
+    
+    .box-masonry  h4 {
+        margin: 0px !important;
+    }
+}
+
+.box-masonry.officers {
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+.box-masonry > p {
+    margin-bottom:0px !important;
+}
+
+.box-masonry .box-masonry-text{
+    flex-basis: 70%;
+}
+
+p.social {
+   margin-bottom: 0px !important; 
+}
+
+.img-responsive.officers {
+    flex-basis: 30%;
+    align-self: flex-start;
+}
+
 .no-space .box {
   margin: 0 -15px;
 }
@@ -891,6 +930,11 @@ a:active {
   transition: all 0.2s ease-out;
   text-align: center;
 }
+
+.box-masonry-text.vertical-center {
+      
+}
+
 .box-masonry .box-masonry-hover-center .see-more-icon {
   color: #555555;
   font-size: 50px;
