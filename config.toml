@@ -10,7 +10,7 @@ googleAnalytics = ""
   description = "Official website of the Rice Data Science Club."
   #copyright = "&copy;2018 Your name or company"
   sidebarAbout = [
-    "providing students resources and skills to work with and understand data"
+    "providing resources and skills to work with and understand data"
   ]
   email = "ricedatasci@gmail.com"
 
@@ -24,9 +24,9 @@ googleAnalytics = ""
   name = "about"
   url = "about/"
 
-  [[params.navlinks]]
-  name = "posts"
-  url = "posts/"
+  #[[params.navlinks]]
+  #name = "posts"
+  #url = "posts/"
 
   [[params.navlinks]]
   name = "events"
@@ -47,3 +47,5 @@ googleAnalytics = ""
   [params.social]
   github = "https://github.com/ricedatasci/"
   facebook = "https://www.facebook.com/groups/ricedatasci/"
+  twitter = "https://twitter.com/ricedatasci"
+  instagram = "https://instagram.com/ricedatasci"
