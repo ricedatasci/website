@@ -1,7 +1,7 @@
 +++
 title = "Treasurer"
 name = "Tian Udomsak"
-image = "img/tian.jpg"
+image = "img/about/tian.jpg"
 college = "Hanszen"
 grad_year = "2019"
 github = "tian000"

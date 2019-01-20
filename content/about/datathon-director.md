@@ -2,7 +2,7 @@
 date = "1987"
 title = "Datathon Director"
 name = "Abhijeet Mulgand"
-image = "img/abhijeet.jpg"
+image = "img/about/abhijeet.jpg"
 college = "Weiss"
 grad_year = "2019"
 github = "abhmul"

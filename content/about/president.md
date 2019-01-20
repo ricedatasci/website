@@ -1,7 +1,7 @@
 +++
 title = "President"
 name = "Ellie Clermont"
-image = "img/ellie.jpg"
+image = "img/about/ellie.jpg"
 college = "Martel"
 grad_year = "2020"
 github = "ellie324"

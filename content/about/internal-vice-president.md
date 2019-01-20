@@ -1,7 +1,7 @@
 +++
 title = "Internal Vice President"
 name = "Gabriel Vacaliuc"
-image = "img/gabe.jpg"
+image = "img/about/gabe.jpg"
 college = "Hanszen"
 grad_year = "2020"
 github = "gvacaliuc"
