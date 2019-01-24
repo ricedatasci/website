@@ -18,3 +18,4 @@ at Rice University.
 * [11.05.2018](https://docs.google.com/document/d/1Dti6Nyqytgf1ziUaNOlXlhF1YD8q_wu-TT8cH6w1xv4/edit?usp=sharing)
 * [11.26.2018](https://docs.google.com/document/d/1uRtXILjqU4tTx9lrh8UgP5yPXBdy4-fEzpDsBT74p-M/edit?usp=sharing)
 * [01.11.2019](https://docs.google.com/document/d/1Z9lhZE9kF4Wkh9CFcy9JZJVL8xmlu-lXuXBDDB3QUp4/edit?usp=sharing)
+* [01.23.2019](https://docs.google.com/document/d/1sa-to3pPdh_TdvG-QUOcbSSBpena-QEeiN2G9lCe8pY/edit?usp=sharing)
