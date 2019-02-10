@@ -1,7 +1,7 @@
 +++
 +++
 
-{{< figure src="/img/rice-datathon-sp19.jpg" class="center" >}}
+{{< figure src="/img/rice-datathon-sp19.jpg" class="center" width="100%" >}}
 
 ---
 
