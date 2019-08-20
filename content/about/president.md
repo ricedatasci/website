@@ -11,4 +11,3 @@ weight = "1"
 +++
 
 junior at Martel studying cs  
-incoming @ [Amazon](https://amazon.com)

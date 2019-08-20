@@ -1,11 +1,11 @@
 +++
 title = "External Vice President"
-name = "Nicholas McMillan"
-image = "img/about/nicholas-mcmillan.png"
-college = "Hanszen"
-grad_year = "2019"
-facebook = "nicholas.mcmillan.127"
+name = "Muthu Chidambaram"
+image = "img/about/muthu.jpg"
+college = "Wiess"
+grad_year = "2021"
+facebook = "muthu.chidambaram.77"
 weight = "2"
 +++
 
-senior at Hanszen studying stats
+Junior at Hanszen studying Computer Science with a minor in Math.

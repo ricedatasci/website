@@ -12,4 +12,3 @@ weight = "3"
 +++
 
 junior at Hanszen studying cs & stats  
-incoming @ [Cruise Automation](https://getcruise.com)

@@ -1,5 +1,5 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
+date = "08-19-2019"
 title = "about rice datasci"
 +++
 

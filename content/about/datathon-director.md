@@ -1,15 +1,18 @@
 +++
-date = "1987"
 title = "Datathon Director"
-name = "Abhijeet Mulgand"
-image = "img/about/abhijeet.jpg"
-college = "Weiss"
-grad_year = "2019"
-github = "abhmul"
-facebook = "jet.is.fly"
-email = "aam14@rice.edu"
+name = "Emily Wang"
+image = "img/about/emily_headshot.jpg"
+college = "Will Rice"
+grad_year = "2021"
+github = "emwang5"
+facebook = "emwang17"
+email = "eyw3@rice.edu"
 weight = "4"
 +++
 
-senior at Weiss studying cs and math  
-incoming @ [Domino Data Lab](https://www.dominodatalab.com)
+A junior at Will Rice studying Mathematical Economic Analysis, Statistics, and
+minors in Computational Finance and Evolutionary Biology.
+
+I have been playing ultimate for 6 years, most recently with our womxn’s
+ultimate team, Torque. In my free time, I enjoy knitting, watching cat videos,
+and playing mahjong with my fellow Will Ricers.

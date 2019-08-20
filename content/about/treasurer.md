@@ -11,4 +11,3 @@ weight = "5"
 +++
 
 senior at Hanszen studying cs  
-incoming @ [Grand Rounds](https://www.grandrounds.com/)
