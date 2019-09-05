@@ -22,4 +22,4 @@ For more information:
 
 ### officers
 
-The club is managed by a group of 5 members:
+The club is managed by a group of officers and a datathon committee:

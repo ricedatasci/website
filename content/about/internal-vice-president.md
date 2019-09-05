@@ -1,7 +1,6 @@
 +++
 title = "Internal Vice President"
 name = "Gabriel Vacaliuc"
-image = "img/about/gabe.jpg"
 college = "Hanszen"
 grad_year = "2020"
 github = "gvacaliuc"
@@ -11,4 +10,5 @@ email = "gv8@rice.edu"
 weight = "3"
 +++
 
-junior at Hanszen studying cs & stats  
+Junior at Hanszen studying Computer Science.  In my free time I enjoy playing
+ultimate frisbee, browsing hacker news, and listening to all kinds of music.  

@@ -1,13 +1,12 @@
 +++
-title = "Datathon Director"
+title = "Datathon Committee"
 name = "Emily Wang"
-image = "img/about/emily_headshot.jpg"
 college = "Will Rice"
 grad_year = "2021"
 github = "emwang5"
 facebook = "emwang17"
 email = "eyw3@rice.edu"
-weight = "4"
+weight = "5"
 +++
 
 A junior at Will Rice studying Mathematical Economic Analysis, Statistics, and
