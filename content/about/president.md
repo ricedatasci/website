@@ -1,14 +1,14 @@
 +++
 title = "President"
-name = "Ellie Clermont"
-image = "img/about/ellie.jpg"
-college = "Martel"
-grad_year = "2020"
-github = "ellie324"
-facebook = "ellie.clermont"
-email = "ellie.clermont@rice.edu"
+name = "Cole Morgan"
+college = "Wiess"
+grad_year = "2021"
+github = "cmm16"
+facebook = "cole.morgan.7"
+linkedin = "cole-morgan-79579814b"
+email = "cmm16@rice.edu"
 weight = "1"
 +++
 
-junior at Martel studying cs  
-incoming @ [Amazon](https://amazon.com)
+Junior at Wiess studying Statistics.  In my free time I enjoy playing board
+games and ping pong.  This summer I lived and worked in Norway!

@@ -1,5 +1,5 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
+date = "08-19-2019"
 title = "about rice datasci"
 +++
 
@@ -22,4 +22,4 @@ For more information:
 
 ### officers
 
-The club is managed by a group of 5 members:
+The club is managed by a group of officers and a datathon committee:
