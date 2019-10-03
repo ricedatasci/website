@@ -10,5 +10,5 @@ email = "gv8@rice.edu"
 weight = "3"
 +++
 
-Junior at Hanszen studying Computer Science.  In my free time I enjoy playing
+Senior at Hanszen studying Computer Science.  In my free time I enjoy playing
 ultimate frisbee, browsing hacker news, and listening to all kinds of music.  

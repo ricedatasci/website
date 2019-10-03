@@ -7,4 +7,4 @@ facebook = "muthu.chidambaram.77"
 weight = "2"
 +++
 
-Junior at Hanszen studying Computer Science with a minor in Math.
+Junior at Wiess studying Computer Science with a minor in Math.
