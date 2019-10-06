@@ -24,9 +24,9 @@ googleAnalytics = ""
   name = "about"
   url = "about/"
 
-  #[[params.navlinks]]
-  #name = "posts"
-  #url = "posts/"
+  [[params.navlinks]]
+  name = "deep"
+  url = "data-education-exploration-project/"
 
   [[params.navlinks]]
   name = "events"
