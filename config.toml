@@ -26,7 +26,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "deep"
-  url = "data-education-exploration-project/"
+  url = "https://datasci.rice.edu/deep/"
 
   [[params.navlinks]]
   name = "events"
