@@ -33,8 +33,8 @@ googleAnalytics = ""
   url = "events/"
 
   [[params.navlinks]]
-  name = "datathon"
-  url = "datathon/"
+  name = "chrp"
+  url = "chrp/"
 
   [[params.navlinks]]
   name = "calendar"
