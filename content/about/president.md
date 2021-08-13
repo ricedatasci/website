@@ -9,4 +9,4 @@ email = "lc70@rice.edu"
 weight = "1"
 +++
 
-Senior at Hanszen studying CAAM and Cognitive Science. I’m a huge foodie - I love eating & making good food, exploring new places/traveling (Scotland this summer!), and reading books. International student from Taiwan!
+Senior at Hanszen studying CAAM and Cognitive Science. I’m a huge foodie - I love eating & making good food, exploring new places/traveling, and reading books. International student from Taiwan!
